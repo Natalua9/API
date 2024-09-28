@@ -2,7 +2,7 @@
 // Ваш API-ключ
 $apiKey = "b8eb9a80346dc7f46f5a01aa21b6a094";
 
-// Функция для получения погоды по ID города
+//  получения погоды по ID города
 function getWeather($cityId) {
     global $apiKey;
 
